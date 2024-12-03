@@ -9,6 +9,7 @@
 <article/>
 
 <h2>Principales Roles de Scrum</h2>
+<img src="https://github.com/Ulises2024/SCRUM/blob/main/scrum/roles_scrum.png" alt="Roles Scrum">
 <p><strong>Product Owner:</strong> Provee las reglas y requerimientos de negocio. Es el representante directo del cliente y ayuda con el relevamiento de necesidades.</p>
 <p><strong>Scrum Master:</strong> Es quien <strong>lidera el equipo</strong>  y se encarga que se cumplan las ceremonias y reglas del marco de scrum. Divide tareas y objetivos, establece fechas y trata de que las mismas se cumplan.</p>
 <p><strong>Equipo de Sistemas/Desarrollo:</strong> Está compuesto por los analistas funcionales, QAs, desarrolladores y todo miembro que colabore con el proceso de desarrollo de software, su implementación productiva y futuro mantenimiento.</p>
@@ -30,7 +31,7 @@
 <p><strong>User Story (historia de usuario):</strong> Una breve descripción de una funcionalidad del producto desde la perspectiva del usuario o cliente.</p>  
 
 <h2>Etapas de SCRUM</h2>
-imgen SCRUm
+<img src="https://github.com/Ulises2024/SCRUM/blob/main/scrum/etapas_scrum.png" alt="Roles Scrum">
 
  <h2>Planificación de SPRINT</h2>
  <ul>
@@ -41,7 +42,7 @@ imgen SCRUm
  </ul>
 
  <h2>Reunión DAILY</h2>
- IMAGEN DAILY
+ <img src="https://github.com/Ulises2024/SCRUM/blob/main/scrum/daily_Scrum.png" alt="Roles Scrum">
 <ul>
   <li> La Daily en Scrum es una reunión diaria de MÁXIMO 15 minutos donde el equipo de desarrollo se sincroniza y actualiza sobre el progreso realizado hasta el momento.</li>
   <li>Se responden tres preguntas: ¿Qué hice ayer?, ¿Qué haré hoy?, ¿Hay algún impedimento? y ¿Qué voy a hacer mañana? </li>
@@ -49,7 +50,7 @@ imgen SCRUm
 </ul>
  
  <h2>Sprint <strong>REVIEW</strong></h2>
-IMAGEN REVIEW
+<img src="https://github.com/Ulises2024/SCRUM/blob/main/scrum/review_sprint.png" alt="review_sprint">
  <ul>
    <li>Se realiza al finalizar cada sprint.</li>
    <li>El <strong>equipo de desarrollo</strong> muestra el trabajo completado al <strong>Product Owner</strong> y otros <strong>stakeholders</strong> relevantes.</li>
@@ -58,7 +59,7 @@ IMAGEN REVIEW
  </ul>
 
  <h2>Sprint <strong>RETROSPECTIVE</strong></h2>
-IMAGEN REVIEW
+<img src="https://github.com/Ulises2024/SCRUM/blob/main/scrum/retrospective_sprint.png" alt="review_sprint">
  <ul>
    <li>Es una reunión para que el equipo de desarrollo reflexione sobre el sprint que acaba de terminar.</li>
    <li>Se discuten los éxitos, los desafíos y las oportunidades de mejora.</li>
