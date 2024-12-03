@@ -56,3 +56,12 @@ IMAGEN REVIEW
    <li>Se obtiene <strong>feedback</strong> por ambas partes por el trabajo Ilevado a cabo.</li>
    <li>Se establecen nuevos <strong>objetivos</strong> para el próximo sprint y se redefinen <strong>prioridades</strong>.</li>
  </ul>
+
+ <h2>Sprint <strong>RETROSPECTIVE</strong></h2>
+IMAGEN REVIEW
+ <ul>
+   <li>Es una reunión para que el equipo de desarrollo reflexione sobre el sprint que acaba de terminar.</li>
+   <li>Se discuten los éxitos, los desafíos y las oportunidades de mejora.</li>
+   <li>El objetivo es identificar acciones para el próximo sprint que permitan al equipo trabajar de manera más eficiente y aumentar la calidad del producto.</li>
+   </li>
+ </ul>
